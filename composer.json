@@ -1,0 +1,17 @@
+{
+    "name": "luc/test-challenge",
+    "description": "Challenge pour le test en php",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Luc\\TestChallenge\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nguemoue",
+            "email": "lucchuala@gmail.com"
+        }
+    ],
+    "require": {}
+}
